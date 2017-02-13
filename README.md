@@ -1,5 +1,5 @@
 # comp140 - game
-## Street Cat Fighter
+### Street Cat Fighter
 My game will be a first person fighting game, in which the player is a cat just moved into a new town and has to fight the other cats including boss fights to gain more territory, and eventually takes the whole town.
 
 The controller would be a lifesize cat teddy with press buttons in the paw pads, left paw is block, right paw is attack, hold the right paw button longer for heavy attack, touch sensors on the mouth for quick bite and touch sensor in the tail for stun.
