@@ -1,10 +1,6 @@
-# comp140 - game
-### Street Cat Fighter
-My game will be a first person fighting game, in which the player is a cat just moved into a new town and has to fight the other cats including boss fights to gain more territory, and eventually takes the whole town.
+# Comp140 -Street Cat Fighter
+## Game
+My game will be a one on one fighting game, based on the street fighter game, the camera view is side on and the player will fight an AI, the first to have an empty health bar looses, the four moves are bite, claw, block and stun, besides the health bar there is a stun bar which uses 40 out of 100 points when stun is used and slowly regains as the game plays. The main story behind the game is that the player is a cat just moved into a new town and has to fight the other cats including boss fights to gain more territory, and eventually takes the whole town.
 
-The controller would be a lifesize cat teddy with press buttons in the paw pads, left paw is block, right paw is attack, hold the right paw button longer for heavy attack, touch sensors on the mouth for quick bite and touch sensor in the tail for stun.
-All attacks apart from bite from the mouth touch sensor would have a cooldown time but bite attack leaves you vunurable to you opponent.
-
-There could be an upgrade system in which you upgrade how much damage an attack does, how long your stun lasts for, how fast the cooldown recovers and health upgrades.
-
-It would be possible to play against friends or random online players, but that would be something to to include in the future
+## Controller
+The controller be made of a cat cuddly toy which will have 4 buttons, the button in its right paw will make the player character claw, a button in its left paw will block all damage, a button in the toys mouth will be a bite and one button in the tale which is the stun. The buttons will have to be attached to the arduino using crocodile clips, then use insulating tap to make sure the connection doesn't come loose, the arduino will be kept in the cuddly toys tummy with a zip into it for access.
